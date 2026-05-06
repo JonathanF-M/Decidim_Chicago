@@ -56,7 +56,7 @@ services:
        "
 
     labels:
-      - traefik.docker.network=dokploy-network
+      - traefik.docker.network=dnetwork
       - traefik.enable=true
       - traefik.http.routers.decidim-web.rule=Host(`decidim.vps01.chicommons.coop`)
       - traefik.http.routers.decidim-web.entrypoints=web
