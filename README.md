@@ -6,7 +6,7 @@ This is the open-source repository for code, based on [Decidim](https://github.c
 
 ## ChiCommons Chicago Decidim Implementation
 
-This implementation is based on Decidim version 0.31.2
+This implementation is based on Decidim version 0.31.4
 
 Additional gems deamons and delayed_job_active_record have been added for email service
 
